@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: eureka-server
+
+logging:
+  level:
+    root: DEBUG
+    com.example: DEBUG
+
+eureka:
+  server:
+    enable-self-preservation: false
