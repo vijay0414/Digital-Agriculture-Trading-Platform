@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: api-gateway
+
+logging:
+  level:
+    root: DEBUG
+    com.example: TRACE
+    org.springframework.cloud.gateway: TRACE
