@@ -1,29 +1,28 @@
 package com.example.usermanagement.service;
 
-import com.example.usermanagement.dto.UserRequestDTO;
-import com.example.usermanagement.dto.UserResponseDTO;
-import com.example.usermanagement.model.User;
+import com.example.usermanagement.dto.*;
 
 import java.util.List;
-import java.util.Optional;
 
-/**
- * User Service Interface
- * Defines user management operations
- */
 public interface UserService {
 
-    UserResponseDTO createUser(UserRequestDTO userRequestDTO);
+    UserResponseDTO createUser(UserRequestDTO request);
+
+    UserResponseDTO registerFarmer(UserRequestDTO request);
+
+    UserResponseDTO registerRetailer(UserRequestDTO request);
+
+    AuthResponseDTO login(LoginRequestDTO request);
+
+    AuthResponseDTO refreshToken(RefreshRequestDTO request);
 
     List<UserResponseDTO> getAllUsers();
 
+    List<UserResponseDTO> getFarmers();
+
+    List<UserResponseDTO> getRetailers();
+
     UserResponseDTO getUserById(Long id);
 
-    UserResponseDTO getUserByEmail(String email);
-
-    Optional<User> findByEmail(String email);
-
-    UserResponseDTO updateUser(Long id, UserRequestDTO userRequestDTO);
-
-    void deleteUser(Long userid);
+    void deleteUser(Long id);
 }

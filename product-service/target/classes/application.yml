@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: product-service
+
+  config:
+    import: optional:configserver:https://config-server-production-9c39.up.railway.app

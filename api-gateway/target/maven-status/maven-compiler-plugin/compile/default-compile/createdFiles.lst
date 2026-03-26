@@ -1,3 +1,0 @@
-com\example\apigateway\ApiGatewayApplication.class
-com\example\apigateway\exception\GatewayExceptionHandler.class
-com\example\apigateway\config\RouteConfig.class

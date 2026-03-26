@@ -1,0 +1,10 @@
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\config\SecurityConfig.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\controller\AllProductsController.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\controller\ProductController.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\controller\RetailerProductController.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\dto\CreateProductRequest.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\dto\UpdateProductRequest.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\entity\Product.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\ProductServiceApplication.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\repository\ProductRepository.java
+D:\SmartX\trading-platform\backend-common\java-spring-boot\product-service\src\main\java\com\example\productservice\service\ProductService.java

@@ -1,0 +1,11 @@
+com\example\productservice\controller\ProductController.class
+com\example\productservice\dto\CreateProductRequest.class
+com\example\productservice\controller\AllProductsController.class
+com\example\productservice\ProductServiceApplication.class
+com\example\productservice\config\SecurityConfig.class
+com\example\productservice\repository\ProductRepository.class
+com\example\productservice\dto\UpdateProductRequest.class
+com\example\productservice\service\ProductService.class
+com\example\productservice\controller\RetailerProductController.class
+com\example\productservice\entity\Product$ProductBuilder.class
+com\example\productservice\entity\Product.class

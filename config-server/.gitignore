@@ -1,0 +1,37 @@
+### Maven ###
+/target/
+**/target/
+
+### Logs ###
+*.log
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### IDEs ###
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### Maven Wrapper ###
+.mvn/wrapper/maven-wrapper.jar
