@@ -1,9 +1,0 @@
-logging:
-  level:
-    root: DEBUG
-    com.example: DEBUG
-    org.springframework.cloud.gateway: DEBUG
-
-spring:
-  application:
-    name: api-gateway
