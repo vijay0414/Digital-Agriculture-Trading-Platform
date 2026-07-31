@@ -104,12 +104,3 @@ DigitalAgri/
 
 ---
 
-##  Docker Support
-Each service (both Backend and Frontend) includes a `Dockerfile` for containerized deployment. 
-
-To build an image:
-```bash
-docker build -t digital-agri-service-name .
-```
-
----
