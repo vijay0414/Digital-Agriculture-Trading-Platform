@@ -3,7 +3,7 @@
 [![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.2.5-brightgreen)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/Frontend-React%2019-blue)](https://react.dev/)
 [![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)](https://microservices.io/)
-[![Docker](https://img.shields.io/badge/Deployment-Docker-blue)](https://www.docker.com/)
+
 
 A modern, full-stack digital marketplace designed to bridge the gap between farmers and retailers. This platform empowers farmers to list their produce directly and enables retailers to browse, order, and track agricultural products seamlessly.
 
